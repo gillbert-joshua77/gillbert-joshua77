@@ -154,7 +154,7 @@ Offline collaborative coding platform built using Electron for classroom environ
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygillbert-joshua77&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -164,7 +164,7 @@ Offline collaborative coding platform built using Electron for classroom environ
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gillbert-joshua77&theme=tokyo-night"/>
 
 </p>
 
