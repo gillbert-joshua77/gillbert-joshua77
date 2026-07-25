@@ -1,106 +1,196 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Gillbert Joshua</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Gillbert+Joshua+MJ;Building+an+AI+Operating+System;AI%2FML+%2B+DSA+%2B+Linear+Algebra%2C+Daily;Aiming+for+an+AI+Research+Internship+by+2027" alt="Typing SVG" />
-
-### IMCA Student @ Parul University · Building AI-Native Tools · Future AI Researcher
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Batch-2025--2030-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Research-7C3AED?style=for-the-badge" />
-</p>
-
-<p>
-  <a href="https://gillbert-joshua-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dsa-java-solutions" target="_blank">
-    <img src="https://img.shields.io/badge/DSA%20Log-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
-<br>
-
-## About Me
-
-I'm a second-year IMCA student who likes taking systems apart mentally before building them. Right now I'm deep in a self-designed 12-month roadmap toward an **AI research internship by 2027**, with a **PhD in CS/AI** as the long-term target.
-
-- 🧠 Currently building an **AI OS** — a voice/text assistant that controls a whole desktop (apps, files, tasks) via local LLMs
-- 🎓 Also rebuilding **UniGuide AI**, a conversational platform for college/career guidance
-- 📈 Foundation Phase (Jul–Sep 2026): Java DSA, Linear Algebra, Python — before moving into formal AI/ML in Q4
-- 🔭 Everything I build right now is chosen to point in one direction: research, not just shipping features
-- ⚡ I'd rather understand *why* a system works before I try to build one like it
-
-<br>
-
-## Current Roadmap
-
-```
-Foundation Phase        Jul – Sep 2026    Java DSA · Linear Algebra · Python
-AI/ML Learning          Oct – Dec 2026    LLM APIs · Agents · RAG
-Research & Build        Jan – Mar 2027    AI OS deep build · applied research
-Apply & Land            Apr – Jun 2027    AI Research Internship applications
-```
-
-<br>
-
-## Tech Stack
+<h3 align="center">
+IMCA (AI) Student • Building AI Systems • Learning in Public
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,tailwind,django,dotnet,firebase,figma,git,github,vscode,electron,nodejs&theme=dark" />
+Passionate about Artificial Intelligence, Software Engineering, Open Source, and understanding how intelligent systems work from first principles.
 </p>
 
-**Languages** — Java · Python · TypeScript · JavaScript · C#
-**Frontend** — React · Next.js · Tailwind CSS · Electron.js
-**Backend** — Django · ASP.NET · Node.js
-**AI / Data** — Local LLMs (Ollama) · Gemini API · Claude API · Pinecone · Prisma
-**Tools** — Figma · Git · GitHub · VS Code · Vercel
+---
 
-<br>
+# 🚀 About Me
 
-## Featured Projects
+I'm a second-year **Integrated MCA (Artificial Intelligence)** student at **Parul University, India**.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI OS</h3>
-      <p>A voice/text desktop assistant that controls the whole system — opening apps, managing files, running tasks — powered by local LLMs via Ollama. This year's college project and the long-term direction for everything else I'm building.</p>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-Ollama%20%7C%20Local%20LLMs%20%7C%20Agents-7C3AED?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 UniGuide AI</h3>
-      <p>A conversational AI platform guiding students through college recommendations, internship matching, and resume gap analysis. Being rebuilt from the ground up on a cleaner Next.js + Firebase + Gemini stack.</p>
-      <img src="https://img.shields.io/badge/Status-Rebuilding-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Firebase%20%7C%20Gemini-7C3AED?style=flat-square" />
-    </td>
-  </tr>
-</table>
+I'm fascinated by how modern AI systems are built—from algorithms and machine learning to large language models and autonomous AI agents. Instead of only using AI tools, I enjoy understanding the engineering and research behind them.
 
-<br>
+Currently, I'm focused on building strong computer science fundamentals while creating practical AI-powered applications that push me closer to my long-term goal of contributing to AI research.
 
-## GitHub Stats
+I believe the best way to learn is to **build, experiment, fail, improve, and share everything publicly.**
+
+---
+
+# 🎯 Current Focus
+
+- 🧠 Learning AI from first principles
+- 💻 Strengthening Java, Python & Data Structures
+- 📐 Studying Linear Algebra & Mathematics for AI
+- 🤖 Building AI-powered desktop applications
+- 🌍 Contributing to Open Source
+- 📚 Reading research papers and technical blogs
+
+---
+
+# 🛣️ Learning Roadmap
+
+| Phase | Timeline | Focus |
+|--------|----------|------|
+| Foundation | Jul – Sep 2026 | Java, Python, DSA, Linear Algebra |
+| AI Fundamentals | Oct – Dec 2026 | Machine Learning, Deep Learning, LLMs |
+| Build & Research | Jan – Mar 2027 | AI Systems, Agents, RAG, Projects |
+| Internship Preparation | Apr – Jun 2027 | Portfolio, Open Source, Interview Prep |
+
+---
+
+# 🚀 Featured Projects
+
+## 🖥️ AI OS *(In Progress)*
+
+A desktop AI assistant designed to control applications, files, and workflows using natural language with support for local language models.
+
+**Tech**
+- Python
+- Electron
+- Ollama
+- Local LLMs
+
+---
+
+## 🎓 UniGuide AI *(Rebuilding)*
+
+An AI-powered student guidance platform that helps students with academics, career planning, and university-related information.
+
+---
+
+## 💻 ClassroomSync
+
+Offline collaborative coding platform built using Electron for classroom environments.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+- C#
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- Electron
+
+### Backend
+
+- Django
+- Node.js
+- ASP.NET
+
+### AI & Data
+
+- Ollama
+- Gemini API
+- OpenAI API
+- LangChain
+- Pinecone
+
+### Database
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Docker
+- Figma
+
+---
+
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python for AI
+- Linear Algebra
+- Probability & Statistics
+- Machine Learning Fundamentals
+- Deep Learning
+- Transformer Architecture
+- AI Agents
+
+---
+
+# 🌱 2026 Goals
+
+- Build a production-ready AI desktop assistant
+- Master Java DSA
+- Complete AI & ML fundamentals
+- Read influential AI research papers
+- Contribute to open-source AI projects
+- Build a strong portfolio for AI internship applications
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gillbert-joshua77&theme=radical&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=radical&hide_border=true" width="55%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<br>
+---
 
-<div align="center">
+# 📈 Contribution Graph
 
-### "Proving them wrong, one commit at a time."
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio *(Coming Soon)*
+- 📧 Email
+
+---
+
+# 💭 Philosophy
+
+> **"I don't just want to use AI.  
+> I want to understand how intelligent systems work, build them from the ground up, and contribute to the future of AI."**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Building. Learning. Improving.
+
+One commit at a time.
+
+</p>
