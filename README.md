@@ -122,8 +122,6 @@ public:
 
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
 ### 🤖 JARVIC AI
 > A next-generation AI desktop assistant inspired by JARVIS, designed to understand natural language, automate workflows, manage files, execute commands, and coordinate AI agents using local and cloud language models.
 
