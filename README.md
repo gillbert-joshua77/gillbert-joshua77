@@ -251,7 +251,7 @@ More AI experiments...
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gillbert-joshua77&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gillbert-joshua77&theme=tokyonight&hide_border=true"/>
 
 </div>
 
