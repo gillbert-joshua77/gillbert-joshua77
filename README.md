@@ -204,8 +204,8 @@ Next AI system — details dropping once development begins.
 <div align="center">
 
 <!-- Replace USERNAME if needed -->
-<img src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=tokyonight&hide_border=true" height="165&cache_seconds=86400"/>
 
 <br/>
 
