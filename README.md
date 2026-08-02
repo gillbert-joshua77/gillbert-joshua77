@@ -151,7 +151,9 @@ Next AI system — details dropping once development begins.
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 </td>
@@ -208,8 +210,13 @@ Next AI system — details dropping once development begins.
 <div align="center">
 
 <!-- Replace USERNAME if needed -->
-<img src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake.svg" alt="Snake eating my contributions"/>
+  </picture>
+</div>
 
 <br/>
 
