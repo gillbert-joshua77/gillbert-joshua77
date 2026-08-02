@@ -23,11 +23,11 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=gillbert-joshua77&color=blue&style=for-the-badge)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
+![](https://img.shields.io/github/followers/gillbert-joshua77?style=for-the-badge)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge)
+![](https://img.shields.io/github/stars/gillbert-joshua77?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
