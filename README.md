@@ -243,16 +243,26 @@ More AI experiments...
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</p>
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gillbert-joshua77&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gillbert-joshua77&theme=github-dark-blue&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gillbert-joshua77&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gillbert-joshua77&theme=github-dark&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/gillbert-joshua77/gillbert-joshua77/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 </div>
 
 ---
