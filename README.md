@@ -110,7 +110,7 @@ public:
 - Gemini API
 - MySQL
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/gillbert-joshua77/UniGuide-AI">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
