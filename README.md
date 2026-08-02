@@ -2,11 +2,11 @@
 
 <!-- ============ HERO BANNER ============ -->
 <!-- Replace banner image below with your own (Canva/Figma export, 1200x300) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Gillbert%20Joshua&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Future%20AI%20Researcher&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5ACD,100:00BFFF&height=220&section=header&text=Gillbert%20Joshua&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Future%20AI%20Researcher&descAlignY=58&descSize=18&descColor=E0E7FF&animation=fadeIn" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+Systems+from+First+Principles;IMCA+(AI)+Student+%40+Parul+University;Learning+in+Public+%E2%80%A2+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+from+First+Principles;IMCA+(AI)+Student+%40+Parul+University;Learning+in+Public+%E2%80%A2+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -129,72 +129,49 @@ Next AI system — details dropping once development begins.
 
 **Languages**
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs&theme=dark"/>
 
 </td>
 <td valign="top" width="16%">
 
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron&theme=dark"/>
 
 </td>
 <td valign="top" width="17%">
 
 **Backend**
 
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,django,dotnet&theme=dark"/>
 
 </td>
 <td valign="top" width="17%">
 
 **AI / ML**
 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
-![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch&theme=dark"/>
+<br/>
+<img height="32" src="https://img.shields.io/badge/-%20-11557C?style=flat-square&logo=plotly&logoColor=white" title="Matplotlib"/>
+<img height="32" src="https://img.shields.io/badge/-%20-4C72B0?style=flat-square" title="Seaborn"/>
+<img height="32" src="https://img.shields.io/badge/-%20-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangChain"/>
+<img height="32" src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=ollama&logoColor=white" title="Ollama"/>
+<img height="32" src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" title="Gemini API"/>
+<img height="32" src="https://img.shields.io/badge/-%20-412991?style=flat-square&logo=openai&logoColor=white" title="OpenAI API"/>
 
 </td>
 <td valign="top" width="17%">
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark"/>
 
 </td>
 <td valign="top" width="17%">
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea,pycharm,clion,webstorm,figma&theme=dark"/>
 
 </td>
 </tr>
