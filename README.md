@@ -187,11 +187,27 @@ More AI experiments...
 ## AI / ML
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
 </p>
 
 ## Database
@@ -202,8 +218,20 @@ More AI experiments...
 
 ## Tools
 
+## 🛠️ Tools & Platforms
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,firebase"/>
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CLion-14C8FF?style=for-the-badge&logo=clion&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white"/>
+
 </p>
 
 ---
