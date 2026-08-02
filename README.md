@@ -231,7 +231,7 @@ Next AI system — details dropping once development begins.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5ACD,100:00BFFF&height=100&section=footer"/>
 
 <sub>Building. Learning. Improving. One commit at a time. ⭐</sub>
 
