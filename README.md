@@ -1,312 +1,242 @@
-<!-- ========================= -->
-<!--       HERO SECTION        -->
-<!-- ========================= -->
-
 <div align="center">
 
-<!-- Replace this banner with your own -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Gillbert%20Joshua&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Future%20AI%20Researcher&descAlignY=60&descSize=20" width="100%" />
+<!-- ============ HERO BANNER ============ -->
+<!-- Replace banner image below with your own (Canva/Figma export, 1200x300) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Gillbert%20Joshua&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Future%20AI%20Researcher&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" width="100%"/>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+Systems+from+First+Principles;IMCA+(AI)+Student+%40+Parul+University;Learning+in+Public+%E2%80%A2+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Replace with your actual links -->
+<a href="https://github.com/gillbert-joshua77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<div align="center">
+<br/>
 
-# 👋 Hi, I'm Gillbert Joshua
+<!-- ============ ABOUT ME ============ -->
+### 🧠 About Me
 
-### Building Intelligent Systems • AI Engineering • Open Source
+I'm a second-year **Integrated MCA (AI)** student at **Parul University, India**, focused on understanding how intelligent systems actually work — not just how to use them. I'm currently strengthening my CS fundamentals in Java, Python, and DSA while building real AI-powered applications. My long-term goal is contributing to AI research through a PhD in Computer Science. I believe in building in public — every project here is a real step toward that goal.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Future+AI+Researcher;Full+Stack+Developer;Learning+Computer+Science+from+First+Principles" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=gillbert-joshua77&color=blue&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/gillbert-joshua77?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/gillbert-joshua77?affiliations=OWNER&style=for-the-badge)
-
-</div>
-
----
-
-# 💫 About Me
-
-```cpp
-class GillbertJoshua {
-
-public:
-
-    string role = "IMCA (AI) Student";
-
-    string mission =
-    "Building the foundations for intelligent systems.";
-
-    vector<string> currentFocus = {
-
-        "Java + DSA",
-        "Python",
-        "AI Engineering",
-        "Machine Learning",
-        "Open Source"
-
-    };
-
-};
-```
-
----
-
-# 🚀 Current Focus
-
-- 🧠 AI Engineering
-- 💻 Building AI Projects
-- 📚 Computer Science Fundamentals
-- ⚡ Java + DSA
-- 🤖 AI OS
-- 🌍 Open Source Contributions
-
-<!-- ========================= -->
-<!--     FEATURED PROJECTS     -->
-<!-- ========================= -->
-
-# 🚀 Featured Projects
+<!-- ============ CURRENT FOCUS ============ -->
+### 🎯 Current Focus
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 AI OS
-> An AI-powered desktop operating assistant capable of understanding natural language and automating workflows.
-
-**Status:** 🟡 In Progress
-
-**Tech**
-- Python
-- Electron
-- Ollama
-- Local LLMs
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 🤖 Building **AI OS** — a Jarvis-style desktop assistant
+- 💻 Strengthening Java, Python & Data Structures
+- 📐 Studying Linear Algebra & Math for AI
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🎓 UniGuide AI
-> AI-powered university assistant helping students with academics, career guidance and campus resources.
-
-**Status:** 🟢 Active
-
-**Tech**
-- Django
-- React
-- Gemini API
-- MySQL
-
-<a href="https://github.com/gillbert-joshua77/UniGuide-AI">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 🔬 Learning ML/DL fundamentals from first principles
+- 🌍 Contributing to Open Source
+- 🎓 Preparing for an AI Research Internship
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 JARVIC AI
-> A next-generation AI desktop assistant inspired by JARVIS, designed to understand natural language, automate workflows, manage files, execute commands, and coordinate AI agents using local and cloud language models.
-
-**Status:** 🟡 In Progress
-
-**Key Features**
-- 🧠 Natural Language Understanding
-- ⚡ AI Agent Workflows
-- 💬 Voice & Chat Interface
-- 📂 File & System Automation
-- 🔌 Local + Cloud LLM Support
-
-**Tech**
-- Python
-- Electron
-- Ollama
-- LangChain
-- Gemini API
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-### 🚀 Coming Soon
-
-More AI experiments...
-
-- AI Agents
-- RAG Systems
-- MiniGPT
-- Research Projects
-
-</td>
-
-</tr>
-
 </table>
 
----
+<br/>
 
-# 💻 Tech Stack
+<!-- ============ FEATURED PROJECTS ============ -->
+### 🚀 Featured Projects
 
-## Languages
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs"/>
-</p>
+<h4>🖥️ AI OS</h4>
 
-## Frontend
+Desktop AI assistant that controls apps, files, and workflows via natural language, powered by local LLMs.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron"/>
-</p>
+`Python` `Ollama` `Electron` `Local LLMs`
 
-## Backend
+![Status](https://img.shields.io/badge/Status-In%20Progress-38BDF8?style=flat-square)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,django,dotnet"/>
-</p>
+<!-- Replace # with your repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-## AI / ML
+</td>
+<td width="50%">
 
-<p align="left">
+<h4>🎙️ JARVIC AI</h4>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+A Jarvis-inspired AI assistant/agent — the first build phase of AI OS, focused on voice + text control.
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+`Python` `LLM Agents` `Ollama`
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+![Status](https://img.shields.io/badge/Status-Building-38BDF8?style=flat-square)
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<!-- Replace # with your repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<h4>🎓 UniGuide AI</h4>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+AI-guided platform helping students with academics, career planning, and university recommendations.
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+`Next.js` `Firebase` `Gemini API`
 
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+![Status](https://img.shields.io/badge/Status-Rebuilding-F59E0B?style=flat-square)
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<!-- Replace # with your repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-</p>
+</td>
+<td width="50%">
 
-## Database
+<h4>✨ Coming Soon</h4>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
+Next AI system — details dropping once development begins.
 
-## Tools
+`TBA`
 
-## 🛠️ Tools & Platforms
+![Status](https://img.shields.io/badge/Status-Planned-64748B?style=flat-square)
 
-<p align="left">
+<!-- Replace # with your repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,firebase"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<br/>
 
-<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<!-- ============ TECH STACK ============ -->
+### 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/CLion-14C8FF?style=for-the-badge&logo=clion&logoColor=white"/>
+<table>
+<tr>
+<td valign="top" width="16%">
 
-<img src="https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white"/>
+**Languages**
 
-</p>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
----
-<!-- ========================= -->
-<!--       GITHUB STATS        -->
-<!-- ========================= -->
+</td>
+<td valign="top" width="16%">
 
-# 📊 GitHub Analytics
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+</td>
+<td valign="top" width="17%">
+
+**Backend**
+
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+<td valign="top" width="17%">
+
+**AI / ML**
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td valign="top" width="17%">
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td valign="top" width="17%">
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+### 📊 GitHub Stats
 
 <div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-</p>
+<!-- Replace USERNAME if needed -->
+<img src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillbert-joshua77&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gillbert-joshua77&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
-<div align="center">
+<br/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gillbert-joshua77&theme=github-dark-blue&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gillbert-joshua77&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gillbert-joshua77&theme=github-dark&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/gillbert-joshua77/gillbert-joshua77/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-</div>
-
----
-
-# 🏆 GitHub Activity
+<!-- ============ CONNECT ============ -->
+### 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gillbert-joshua77&theme=tokyonight"/>
+<!-- Replace # with your actual links -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
-
-# 🌐 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/gillbert-joshua77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 
-<a href="https://www.linkedin.com/in/gillbert-joshua-mj-35489a419/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gillbertjoshua77@gamil.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Building intelligent systems, one project at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer"/>
+<sub>Building. Learning. Improving. One commit at a time. ⭐</sub>
 
 </div>
