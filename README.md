@@ -1,196 +1,70 @@
-<h1 align="center">Hey 👋, I'm Gillbert Joshua</h1>
+<!-- ========================= -->
+<!--       HERO SECTION        -->
+<!-- ========================= -->
 
-<h3 align="center">
-IMCA (AI) Student • Building AI Systems • Learning in Public
-</h3>
+<div align="center">
 
-<p align="center">
-Passionate about Artificial Intelligence, Software Engineering, Open Source, and understanding how intelligent systems work from first principles.
-</p>
+<!-- Replace this banner with your own -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Gillbert%20Joshua&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Future%20AI%20Researcher&descAlignY=60&descSize=20" width="100%" />
 
----
+</div>
 
-# 🚀 About Me
+<div align="center">
 
-I'm a second-year **Integrated MCA (Artificial Intelligence)** student at **Parul University, India**.
+# 👋 Hi, I'm Gillbert Joshua
 
-I'm fascinated by how modern AI systems are built—from algorithms and machine learning to large language models and autonomous AI agents. Instead of only using AI tools, I enjoy understanding the engineering and research behind them.
+### Building Intelligent Systems • AI Engineering • Open Source
 
-Currently, I'm focused on building strong computer science fundamentals while creating practical AI-powered applications that push me closer to my long-term goal of contributing to AI research.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Future+AI+Researcher;Full+Stack+Developer;Learning+Computer+Science+from+First+Principles" />
 
-I believe the best way to learn is to **build, experiment, fail, improve, and share everything publicly.**
-
----
-
-# 🎯 Current Focus
-
-- 🧠 Learning AI from first principles
-- 💻 Strengthening Java, Python & Data Structures
-- 📐 Studying Linear Algebra & Mathematics for AI
-- 🤖 Building AI-powered desktop applications
-- 🌍 Contributing to Open Source
-- 📚 Reading research papers and technical blogs
+</div>
 
 ---
 
-# 🛣️ Learning Roadmap
+<div align="center">
 
-| Phase | Timeline | Focus |
-|--------|----------|------|
-| Foundation | Jul – Sep 2026 | Java, Python, DSA, Linear Algebra |
-| AI Fundamentals | Oct – Dec 2026 | Machine Learning, Deep Learning, LLMs |
-| Build & Research | Jan – Mar 2027 | AI Systems, Agents, RAG, Projects |
-| Internship Preparation | Apr – Jun 2027 | Portfolio, Open Source, Interview Prep |
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
 
----
+![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
 
-# 🚀 Featured Projects
+![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge)
 
-## 🖥️ AI OS *(In Progress)*
-
-A desktop AI assistant designed to control applications, files, and workflows using natural language with support for local language models.
-
-**Tech**
-- Python
-- Electron
-- Ollama
-- Local LLMs
+</div>
 
 ---
 
-## 🎓 UniGuide AI *(Rebuilding)*
+# 💫 About Me
 
-An AI-powered student guidance platform that helps students with academics, career planning, and university-related information.
+```cpp
+class GillbertJoshua {
 
----
+public:
 
-## 💻 ClassroomSync
+    string role = "IMCA (AI) Student";
 
-Offline collaborative coding platform built using Electron for classroom environments.
+    string mission =
+    "Building the foundations for intelligent systems.";
 
----
+    vector<string> currentFocus = {
 
-# 💻 Tech Stack
+        "Java + DSA",
+        "Python",
+        "AI Engineering",
+        "Machine Learning",
+        "Open Source"
 
-### Languages
+    };
 
-- Java
-- Python
-- JavaScript
-- TypeScript
-- C#
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-- Electron
-
-### Backend
-
-- Django
-- Node.js
-- ASP.NET
-
-### AI & Data
-
-- Ollama
-- Gemini API
-- OpenAI API
-- LangChain
-- Pinecone
-
-### Database
-
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-- Figma
+};
+```
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Current Focus
 
-- Data Structures & Algorithms
-- Python for AI
-- Linear Algebra
-- Probability & Statistics
-- Machine Learning Fundamentals
-- Deep Learning
-- Transformer Architecture
-- AI Agents
-
----
-
-# 🌱 2026 Goals
-
-- Build a production-ready AI desktop assistant
-- Master Java DSA
-- Complete AI & ML fundamentals
-- Read influential AI research papers
-- Contribute to open-source AI projects
-- Build a strong portfolio for AI internship applications
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gillbert-joshua77&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gillbert-joshua77&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygillbert-joshua77&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gillbert-joshua77&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-- 💼 LinkedIn
-- 🌐 Portfolio *(Coming Soon)*
-- 📧 Email
-
----
-
-# 💭 Philosophy
-
-> **"I don't just want to use AI.  
-> I want to understand how intelligent systems work, build them from the ground up, and contribute to the future of AI."**
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Building. Learning. Improving.
-
-One commit at a time.
-
-</p>
+- 🧠 AI Engineering
+- 💻 Building AI Projects
+- 📚 Computer Science Fundamentals
+- ⚡ Java + DSA
+- 🤖 AI OS
+- 🌍 Open Source Contributions
