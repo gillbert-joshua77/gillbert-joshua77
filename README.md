@@ -122,24 +122,32 @@ public:
 
 <td width="50%" valign="top">
 
-### 💻 ClassroomSync
-> Offline collaborative coding platform built for classrooms using LAN networking.
+<td width="50%" valign="top">
 
-**Status:** 🟢 Active
+### 🤖 JARVIC AI
+> A next-generation AI desktop assistant inspired by JARVIS, designed to understand natural language, automate workflows, manage files, execute commands, and coordinate AI agents using local and cloud language models.
+
+**Status:** 🟡 In Progress
+
+**Key Features**
+- 🧠 Natural Language Understanding
+- ⚡ AI Agent Workflows
+- 💬 Voice & Chat Interface
+- 📂 File & System Automation
+- 🔌 Local + Cloud LLM Support
 
 **Tech**
+- Python
 - Electron
-- Node.js
-- Socket.IO
-- Monaco Editor
+- Ollama
+- LangChain
+- Gemini API
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
-<td width="50%" valign="top">
 
 ### 🚀 Coming Soon
 
